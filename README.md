@@ -1,0 +1,3 @@
+# lintaskod
+
+A new project.
